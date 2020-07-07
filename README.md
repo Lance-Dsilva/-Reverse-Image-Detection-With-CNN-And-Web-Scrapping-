@@ -1,4 +1,4 @@
-pip install beautifulsoup4## Reverse-Image-Detection-With-CNN-And-Web-Scrapping
+## Reverse-Image-Detection-With-CNN-And-Web-Scrapping
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -129,8 +129,8 @@ Contact-
 Team members- 
 
 			  
-              Novia Dsilva - codestacks123@gmail.com
-	      
               Lance Dsilva - codestacks123@gmail.com
+	      
+              Novia Dsilva - codestacks123@gmail.com
 
 
